@@ -92,36 +92,43 @@ Using the Entity Relationship Diagram, tables were created for each csv file
 List the employee number, last name, first name, sex, and salary of each employee. Output shows top 10 rows.
 
 ![image](images/one.png)
+
 ![image](images/one_output.png)
 
 List the first name, last name, and hire date for the employees who were hired in 1986. Output shows top 10 rows.
 
 ![image](images/two.png)
+
 ![image](images/two_output.png)
 
 List the manager of each department along with their department number, department name, employee number, last name, and first name. Output shows top 10 rows.
 
 ![image](images/three.png)
+
 ![image](images/three_output.png)
 
 List the department number for each employee along with that employee’s employee number, last name, first name, and department name. Output shows top 10 rows.
 
 ![image](images/four.png)
+
 ![image](images/four_output.png)
 
 List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B. Output shows top 10 rows.
 
 ![image](images/five.png)
+
 ![image](images/five_output.png)
 
 List each employee in the Sales department, including their employee number, last name, and first name. Output shows top 10 rows.
 
 ![image](images/six.png)
+
 ![image](images/six_output.png)
 
 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name. Output shows top 10 rows.
 
 ![image](images/seven.png)
+
 ![image](images/seven_output.png)
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name). Output shows top 10 rows.
