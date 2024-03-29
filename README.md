@@ -132,6 +132,7 @@ Using the Entity Relationship Diagram, tables were created for each csv file
 ![image](images/seven_output.png)
 
 **List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name). Output shows top 10 rows.
+
 **
 ![image](images/eight.png)
 
